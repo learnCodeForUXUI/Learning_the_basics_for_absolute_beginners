@@ -1,0 +1,14 @@
+article {
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+}
+#seafoodPasta {
+    background: rgb(220, 220, 220);
+}
+a {
+    padding: 10px;
+    background: rgb(200, 200, 200);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
