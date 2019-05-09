@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6em;
+}
+article {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+}
+#seafoodPasta {
+    background: rgb(245, 244, 236);
+}
+a {
+    padding: 10px;
+    background: rgb(201, 114, 28);
+    color: rgb(255, 254, 220);
+    text-decoration: none;
+}
+header img {
+    border-radius: 50%;
+}
+header {
+    text-align: center;
+    padding-bottom: 60px;
+}
+header h1 {
+    font-size: 2em;
+}
+h2 {
+    color: #777;
+    font-weight: 200;
+    text-transform: none;
+}
+blockquote {
+    color: #777;
+    font-size: 18px;
+    font-style: italic;
+    padding-left: 10px;
+}
+blockquote small {
+    font-size: 14px;
+    color: #333;
+    font-style: normal;
+}
+.info p {
+    font-size: 1.2em;
+    line-height: 1.8em;
+    text-align: center;
+}
+.info span {
+    color: #666;
+}
+section {
+    padding-top: 20px;
+    margin-bottom: 50px;
+    border-top: 1px solid #666;
+}
+.quote {
+    padding-top: 30px;
+}
+ul li {
+    list-style-type: square;
+    /* try none */
+}
+ol li {
+    padding-bottom: 10px;
+}
